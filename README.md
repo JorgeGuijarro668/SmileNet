@@ -1,1 +1,2 @@
 # SmileNet
+SmileNet implements and compares two deep learning approaches for smile detection: a Convolutional Neural Network (CNN) and an Autoencoder-based anomaly detector, evaluating their performance in a real-time edge computing scenario. The CNN achieved 95% accuracy and an F1-score of 0.96, significantly outperforming the Autoencoder (46% accuracy). The project includes optimized image preprocessing, dataset normalization, and architecture tuning using TensorFlow and Keras to ensure robust and efficient classification.
